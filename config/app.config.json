@@ -1,7 +1,0 @@
-{
-  "supabase": {
-    "url": "https://evlgwgtvnvzkwkiksbre.supabase.co",
-    "anonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV2bGd3Z3R2bnZ6a3draWtzYnJlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjE2MjIxNDksImV4cCI6MjA3NzE5ODE0OX0.FUC35lx_31f_ivsDedteHICpS5-y44_gu-9mh2xm0n0"
-  },
-  "port": 3000
-}
