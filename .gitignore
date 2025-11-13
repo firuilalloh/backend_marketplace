@@ -10,6 +10,7 @@ yarn-error.log*
 
 # Environment variables
 .env
+app.config.json
 
 # Build outputs
 dist/

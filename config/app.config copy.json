@@ -1,0 +1,7 @@
+{
+  "supabase": {
+    "url": "supabase URL here",
+    "anonKey": "supabase anon key here"
+  },
+  "port": "Port number here but as a number"
+}
