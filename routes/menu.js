@@ -1,9 +1,9 @@
 const express = require("express");
 const router = express.Router();
 const menuModule = require("../module/menu.module");
-// const authMiddleware = require("../middleware/auth.middleware");
+const authMiddleware = require("../middleware/auth.middleware");
 
-router.get("/", async (req, res) => {
+router.get("/", authMiddleware, async (req, res) => {
   const response = await menuModule.getMenuItems();
   res.json(response);
 });
