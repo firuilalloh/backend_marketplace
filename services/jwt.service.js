@@ -1,5 +1,5 @@
 const jwt = require("jsonwebtoken");
-const dbConfig = require("../config/app.config.json");
+const dbConfig = require("../config/config.js");
 
 class JwtService {
   generate(payload) {

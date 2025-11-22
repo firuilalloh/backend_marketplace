@@ -5,7 +5,7 @@
  */
 
 var app = require("../app");
-var config = require("../config/app.config.json");
+var config = require("../config/config.js");
 var debug = require("debug")("backend-marketplace:server");
 var http = require("http");
 
