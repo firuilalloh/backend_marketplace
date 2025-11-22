@@ -1,0 +1,4 @@
+SUPABASE_URL = supabase URL here
+SUPABASE_ANON_KEY = supabase anon key here
+JWT_SECRET = jwt sevret here
+PORT = port here
